@@ -39,4 +39,4 @@ Los tipos primitivos representan valores simples y directos, y suelen utilizarse
 
 Las estructuras de datos permiten almacenar y organizar múltiples valores, facilitando operaciones como búsquedas, iteraciones y transformaciones de información.
 
----
+
