@@ -23,16 +23,32 @@ El objetivo no es enseñar Python desde cero, sino **reforzar las bases** sobre 
 
 ## 📚 Contenido
 
-Los fundamentos se encuentran organizados por archivos y secciones independientes, incluyendo temas como:
+Los fundamentos se encuentran organizados por archivos y secciones independientes, siguiendo una estructura progresiva que cubre los principales conceptos del lenguaje:
 
-- Tipos de datos y estructuras básicas
-- Control de flujo
-- Funciones y alcance
-- Manejo de errores
-- Principios básicos de buenas prácticas
-- Comportamientos comunes que suelen generar confusión
-
-*(El contenido se ampliará y ajustará progresivamente)*
+- Introducción  
+- Tipos de datos básicos  
+- Sintaxis básica  
+- Operadores  
+  - Parte 1  
+  - Parte 2  
+  - Parte 3  
+- Funciones  
+  - Parte 1  
+  - Parte 2  
+  - Parte 3  
+- Estructuras de datos  
+  - Parte 1  
+  - Parte 2  
+  - Parte 3  
+- Manejo de archivos  
+  - Parte 1  
+  - Parte 2  
+- Módulos estándar  
+  - Parte 1  
+  - Parte 2  
+- Módulos externos  
+  - Parte 1  
+  - Parte 2  
 
 ---
 
