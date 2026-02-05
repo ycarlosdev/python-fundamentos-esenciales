@@ -62,4 +62,3 @@ Un desarrollador que domina los fundamentos:
 
 Este repositorio existe para reforzar esa base.
 
----
