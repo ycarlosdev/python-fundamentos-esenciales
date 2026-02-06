@@ -47,6 +47,7 @@ Permite escribir una condición en una sola línea.
 
 ```python
 x if condicion else y
+```
 
 ## Operador walrus
 
