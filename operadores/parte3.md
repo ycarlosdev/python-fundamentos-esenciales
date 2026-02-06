@@ -53,7 +53,9 @@ x if condicion else y
 
 El operador walrus (:=) permite asignar un valor a una variable dentro de una expresión.
 
+```python
 (x := valor)
+```
 
 Con esto se completa el bloque de operadores, proporcionando una visión completa de las distintas formas de trabajar con expresiones en Python.
 
