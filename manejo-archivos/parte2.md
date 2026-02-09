@@ -11,6 +11,7 @@ La estructura `with open()` permite abrir archivos asegurando su cierre automát
 ```python
 with open("archivo.txt", "r") as f:
     contenido = f.read()
+```
 
 Este enfoque es preferible a usar `open()` junto con `close()` de forma manual.
 
